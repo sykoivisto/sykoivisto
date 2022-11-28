@@ -5,7 +5,7 @@
 
 My name is Sy Koivisto. I was a business student, but I've found my passion in development. I started with front end development, but I've been loving back end as well the more I learn about it. I've worked my way through some basic web courses like TeamTreeHouse front-end track, and several youtube/ udemy project based courses. 
 - 🔭 I’m currently working my way through [The Odin Project](https://www.theodinproject.com/), and working on several projects to establish new skills along the way!
-- 🌱 I’m currently learning intermediate/advanced javascript, backend javascript frameworks, front-end frameworks.
+- 🌱 I’m currently learning intermediate/advanced javascript, backend javascript with node, front-end frameworks.
 - 📫 Feel free to connect with me on [linkedin](https://www.linkedin.com/in/sykoivisto/) or send me an [email](mailto:sykoivisto@gmail.com)
 - ⚡ Check out a couple of my pinned projects!
 
